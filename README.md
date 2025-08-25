@@ -2,7 +2,7 @@
 
 Amazon sales analysis
 
- Project Description
+# Project Description
 
 This project focuses on optimizing SQL queries for business analytics.
 I solved 19 case study queries (customer behavior, sales performance, product analysis, etc.) using both subqueries and joins/CTEs.
