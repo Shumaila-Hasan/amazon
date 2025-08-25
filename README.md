@@ -49,4 +49,4 @@ Entity Relationship Diagram (ERD)
 
 Below is the ERD of the database schema used in this project:
 
-![Amazon ERD](C:\Users\HP\Pictures\AMAZON)
+![Amazon ERD](https://github.com/Shumaila-Hasan/amazon/blob/main/amazon_erd.png)
